@@ -1,0 +1,22 @@
+{
+    "usersList": [
+        {   
+            "id": "1",
+            "login": "i.ivanov",
+            "last_update": "01.27.2024",
+            "status": ""
+        },
+        {
+            "id": "2",
+            "login": "b.bocharov",
+            "last_update": "02.15.2024",
+            "status": ""
+        },
+        {
+            "id": "3",
+            "login": "a.alex",
+            "last_update": "01.02.2024",
+            "status": ""
+        }
+    ]
+}
